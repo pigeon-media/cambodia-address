@@ -2,6 +2,9 @@
 
 Convert Latitude & Longitude to address
 
+[![Publish to NPM Registry](https://github.com/pigeon-media/cambodia-address/actions/workflows/npm.yml/badge.svg)](https://github.com/pigeon-media/cambodia-address/actions/workflows/npm.yml)
+![Npm Version](https://img.shields.io/npm/v/@pigeon-media/cambodia-address.svg)
+
 ## Installation
 
 ```
