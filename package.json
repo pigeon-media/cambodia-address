@@ -1,6 +1,6 @@
 {
   "name": "@pigeon-media/cambodia-address",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert Latitude & Longitude to address components",
   "main": "src/main.js",
   "repository": {
