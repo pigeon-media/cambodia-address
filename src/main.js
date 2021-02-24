@@ -7,7 +7,6 @@ const lookups = preloadDataLookups();
  * Resolve Coordinate
  * @param {number} level
  * @param {{lat: number, lng: number}} coordinates
- * @returns {number[]} 
  */
 function resolveCoordinate(coordinate, level = -1) {
     if (!coordinate || typeof coordinate !== 'object') {
