@@ -76,7 +76,7 @@ console.log(result);
 ]
 ```
 
-## Execute
+## Execute on CLI
 
 - `level` can be -1, 0, 1, 2
 
