@@ -14,9 +14,9 @@ npm install @pigeon-media/cambodia-address
 ## Usage
 
 ```js
-const { resolveCoordinates } = require('@pigeon-media/cambodia-address');
+const { resolveCoordinate } = require('@pigeon-media/cambodia-address');
 const location = { lat: 0.0, lng: 0.0 };
-const result = resolve(location);
+const result = resolveCoordinate(location);
 console.log(result);
 ```
 
